@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "proposal-debugger-operands",
+  "version": "1.0.0",
+  "description": "ECMAScript Debugger Operands proposal",
+  "repository": "bmeck/proposal-debugger-operands",
+  "author": "ECMA TC39",
+  "license": "SEE LICENSE IN https://tc39.github.io/ecma262/#sec-copyright-and-software-license",
+  "homepage": "https://github.com/bmeck/proposal-debugger-operands",
+  "dependencies": {
+    "ecmarkup": "^3.12.0"
+  }
+}
