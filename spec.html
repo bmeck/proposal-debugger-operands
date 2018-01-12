@@ -91,7 +91,7 @@ emu-example pre {
     <emu-grammar>
       DebuggerStatement :
         `debugger` `;`
-        `debugger` PrimaryExpression `;`
+        `debugger` [no LineTerminator here] PrimaryExpression `;`
     </emu-grammar>
   </emu-clause>
 </emu-clause>
